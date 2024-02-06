@@ -6,7 +6,7 @@ Designed, developed, deployed quality, enterprise software.
 
 | Category                | Technologies                                                                                                                                                                 |
 |-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Cloud Services          | Azure Cognitive Services, KeyVault, Azure Functions, Cosmos, Data Factory                                                                                                                 |
+| Cloud Services          | Azure Cognitive Services, KeyVault, Azure Functions (Scheduler, Queues, Blob Storage), Cosmos, Data Factory, APIM, App Services                                                                                                                 |
 | Web Development         | Blazor.net, ReactJS, Angular CLI, Ionic Framework (1.x, 2.x), Bootstrap, HTML5, Typescript, .Net Core 8.0, Asp.Net MVC / Web API, IIS 8.0                                                                                                |
 | Mobile Development      | React Native, Ionic Framework, XAMARIN                                                                                                                                       |
 | Desktop Development     | WPF 3.5, .Net Frameworks (4.6/4.0/3.5/3.0/2.0/1.1)                                                                                                                          |
